@@ -45,5 +45,5 @@ To install these in an Anaconda environment, use these commands:
 
 * **Trevor Bhattacharya** - trev.bhatt@gmail.com
 
-## Wee!
+## Public opinion
 https://xkcd.com/2188/
