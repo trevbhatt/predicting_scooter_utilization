@@ -4,7 +4,7 @@ Using data provided by the city of Austin, TX, this project predicts the demand 
 
 ## File Descriptions
 
-**Capstone 1 Final Report.pdf — Start here!** This report describes the process of gathering the data and creating the machine learning analyses.  The report includes links to the appropriate notebook for each section
+**Capstone 1 Final Report.pdf — Start here!** This report describes the process of gathering the data and creating the machine learning analyses.  The report includes links to the appropriate notebook for each section.  This information is also available at my [portfolio](https://trevbhatt.github.io/scooter_project.html#predicting-scooter-utilization)
 
 census_2010_tracts_core.pdf — This is a map of the census tracts used in the project.
 
