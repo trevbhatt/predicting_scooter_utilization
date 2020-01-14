@@ -43,7 +43,7 @@ To install these in an Anaconda environment, use these commands:
 
 ## Author
 
-* **Trevor Bhattacharya** - trev.bhatt@gmail.com
+* **Trevor Bhattacharya** - trevor@trevorb.io
 
 ## Public opinion
 ![xkcd](https://imgs.xkcd.com/comics/e_scooters.png)
