@@ -46,4 +46,4 @@ To install these in an Anaconda environment, use these commands:
 * **Trevor Bhattacharya** - trev.bhatt@gmail.com
 
 ## Public opinion
-https://xkcd.com/2188/
+![xkcd](https://imgs.xkcd.com/comics/e_scooters.png)
